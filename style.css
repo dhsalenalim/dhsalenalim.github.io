@@ -1,13 +1,11 @@
-
- h1{
-
-  font-family: verdana;
-  color:turquoise;
+h1{
+ font-family: verdana;
+ color:turquoise;
 }
 
- h2{
-  font-family: verdana;
-  color:turquoise;
+h2{
+ font-family: verdana;
+ color:turquoise;
 }
 
 p{
@@ -15,7 +13,5 @@ p{
 }
 
 body{
-    background-color: url(http://interfacelift.com/wallpaper/previews/02686_blissfulparadise_672x420.jpg);
+ background-color: coral;
 }
-
-
