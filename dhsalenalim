@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
 <link rel="stylesheet" type="text/css" href="style.css">
+<script>
+body{
+
+    background-color: url(http://interfacelift.com/wallpaper/previews/02686_blissfulparadise_672x420.jpg);
+}
+</script>
 <body>
 <h1> All About Me</h1>
 <title> This is my website </title>
@@ -20,13 +26,9 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <h2>
 My Hobby
 </h2>
-<img src="https://yt3.ggpht.com/a-/AJLlDp3jCvVOB1pAcr1QOZOxwCE47tWf52Vn5WVcFQ=s900-mo-c-c0xffffffff-rj-k-no"/>
+<img src="https://yt3.ggpht.com/a-/AJLlDp3jCvVOB1pAcr1QOZOxwCE47tWf52Vn5WVcFQ=s900-mo-c-c0xffffffff-rj-k-no.jpg"/>
 <p>
 My hobby is dancing and singing. I started dancing when I was 3 and fell in love with jazz, tap, hip hop and contemporay when i was in P3 or P4. I joined choir when I was in P3 and had a whale of my time in that CCA.
 </p>
 </body>
-body{
-
-    background-color: url(http://interfacelift.com/wallpaper/previews/02686_blissfulparadise_672x420.jpg);
-}
 </html>
