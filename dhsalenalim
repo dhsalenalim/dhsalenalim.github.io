@@ -25,6 +25,7 @@ My hobby is dancing and singing. I started dancing when I was 3 and fell in love
 </p>
 </body>
 body{
+
     background-color: url(http://interfacelift.com/wallpaper/previews/02686_blissfulparadise_672x420.jpg);
 }
 </html>
