@@ -1,15 +1,9 @@
 <!DOCTYPE html>
 <html>
-<link rel="stylesheet" type="text/css" href="style.css">
-<script>
-body{
-
-    background-color: url(http://interfacelift.com/wallpaper/previews/02686_blissfulparadise_672x420.jpg);
-}
-</script>
-<body>
-<h1> All About Me</h1>
 <title> This is my website </title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<body>
+<h1>All About Me</h1>
 <img src="https://i.pinimg.com/236x/ba/63/48/ba6348677166af164b40039143fefe4b--battement-rose.jpg"/>
 <p>
 My name is Alena Lim. I am a student of Dunman High School. Currently in 1st year high school. </p>
